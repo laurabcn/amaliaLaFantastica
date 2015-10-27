@@ -1,21 +1,15 @@
-<nav class="navbar navbar-static-top navbar-inverse">
+<nav class="navbar navbar-static-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="https://github.com/Swiip/generator-gulp-angular">
-        <span class="glyphicon glyphicon-home"></span> Gulp Angular
-      </a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-6">
-      <ul class="nav navbar-nav">
-        <li class="active"><a ng-href="#">Home</a></li>
-        <li><a ng-href="#">About</a></li>
-        <li><a ng-href="#">Contact</a></li>
-      </ul>
-
-      <ul class="nav navbar-nav navbar-right acme-navbar-text">
-        <li>Application was created {{ vm.relativeDate }}.</li>
-      </ul>
+     <logo></logo>
+     <h3>{{vm.title}}</h3>
+     <div class="navbar-btn">
+          <div class="btn-cabecera" ng-repeat="button in vm.buttons" ng-click="button.click">
+            <span class="glyphicon glyphicon-{{button.image}}" aria-hidden="true"></span>
+            <p>{{button.name}}</p>
+            <sub>{{button.subtitle}}</sub>
+          </div>
+     </div>
     </div>
   </div>
 </nav>

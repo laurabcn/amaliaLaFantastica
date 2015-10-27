@@ -1,3 +1,80 @@
+h3{
+  display: inline-block;
+  position: relative;
+  width: 60%;
+  font-size: 15px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+logo {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
 .acme-navbar-text {
   color: white;
 }
+
+.navbar-header{
+  width: 100%;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin-right: 5px;
+  margin-bottom: 25px;
+}
+.navbar-btn{
+  display: inline-block;
+  position: relative;
+  width: auto;
+  vertical-align: top;
+}
+
+.btn-cabecera{
+  display: inline-block;
+  position: relative;
+  right: 0px;
+  top: 10px;
+  margin:  0 5px 0 0;
+  vertical-align: top;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  font-size: 10px;
+  -webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.11);
+  -moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.11);
+  box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.11);
+}
+
+
+.btn-cabecera sub{
+  font-style: italic;
+}
+
+.btn-cabecera p{
+  font-size: 12px;
+  font-weight: bold;
+
+  margin-bottom: 0;
+}
+.btn-cabecera sub{
+  bottom: 2px !important;
+}
+
+.glyphicon{
+  font-size: 18px;
+  display: block!important;
+  margin-top: 7px;
+  padding: 5px 0 7px 0;
+}
+.glyphicon-home{
+  color: cornflowerblue;
+}
+
+.glyphicon-zoom-in{
+  color: darkseagreen;
+}
+
+.glyphicon-off{
+  color: red;
+}
+

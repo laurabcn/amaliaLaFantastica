@@ -9,31 +9,9 @@
   function MainController($timeout, webDevTec, toastr) {
     var vm = this;
 
-    vm.awesomeThings = [];
-    vm.classAnimation = '';
-    vm.creationDate = 1445880303972;
-    vm.showToastr = showToastr;
+    vm.buttons = [{name: 'Inicio', image:'home'}, {name: 'Ayuda', image:'zoom-in', subtitle: 'Buscador'}, {name:'Salir', image: 'off', subtitle: 'Retirar Tarjeta'}];
+    vm.title = 'La Caixa';
 
-    activate();
-
-    function activate() {
-      getWebDevTec();
-      $timeout(function() {
-        vm.classAnimation = 'rubberBand';
-      }, 4000);
-    }
-
-    function showToastr() {
-      toastr.info('Fork <a href="https://github.com/Swiip/generator-gulp-angular" target="_blank"><b>generator-gulp-angular</b></a>');
-      vm.classAnimation = '';
-    }
-
-    function getWebDevTec() {
-      vm.awesomeThings = webDevTec.getTec();
-
-      angular.forEach(vm.awesomeThings, function(awesomeThing) {
-        awesomeThing.rank = Math.random();
-      });
-    }
+    vm.three = [{name: 'Puntos Estrella', image: 'star', url: '/ppu/saldo'}]
   }
 })();

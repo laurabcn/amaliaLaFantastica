@@ -12,6 +12,16 @@
         controller: 'MainController',
         controllerAs: 'main'
       })
+      .when('/ppu/saldo', {
+        templateUrl: 'app/ppu/views/saldo.html',
+        controller: 'PpuSaldoController',
+        controllerAs: 'ppuS'
+      })
+      .when('/ppu/extracto', {
+        templateUrl: 'app/ppu/views/extracto.html',
+        controller: 'PpuExtractoController',
+        controllerAs: 'ppuE'
+      })
       .otherwise({
         redirectTo: '/'
       });
