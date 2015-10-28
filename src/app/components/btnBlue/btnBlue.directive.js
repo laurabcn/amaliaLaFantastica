@@ -11,7 +11,7 @@
       restrict: 'E',
       templateUrl: 'app/components/btnBlue/btnBlue.html',
       scope: {
-        
+
       },
       controller: btnBlueController,
       controllerAs: 'vm',
