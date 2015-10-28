@@ -6,7 +6,7 @@
     .controller('MainController', MainController);
 
   /** @ngInject */
-  function MainController($timeout, webDevTec, toastr) {
+  function MainController() {
     var vm = this;
 
     vm.buttons = [{name: 'Inicio', image:'home'}, {name: 'Ayuda', image:'zoom-in', subtitle: 'Buscador'}, {name:'Salir', image: 'off', subtitle: 'Retirar Tarjeta'}];

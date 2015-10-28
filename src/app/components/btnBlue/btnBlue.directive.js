@@ -8,17 +8,17 @@
   /** @ngInject */
   function btnBlue() {
     var directive = {
-      restrict: 'E',
+      restrict: 'A',
       templateUrl: 'app/components/btnBlue/btnBlue.html',
       scope: {
-        
+        properties: '='
       },
       controller: btnBlueController,
       controllerAs: 'vm',
       bindToController: true
 
     };
-    function btnBlueCtrl(){
+    function btnBlueController(){
 
     }
     return directive;

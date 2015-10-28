@@ -1,4 +1,16 @@
-<div>
-  <div header ></div>
+<div class="container">
+  <div>
+    <acme-navbar title="ppuS.title" buttons="ppuS.buttons"></acme-navbar>
+  </div>
+
+  <div class="row">
+    <div ng-repeat="arbol in main.three">
+      <div class="thumbnail">
+        <div class="caption">
+          <div btn-blue properties="arbol"></div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </div>

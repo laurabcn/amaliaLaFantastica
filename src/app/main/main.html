@@ -1,14 +1,13 @@
 <div class="container">
-
   <div>
     <acme-navbar title="main.title" buttons="main.buttons"></acme-navbar>
   </div>
 
   <div class="row">
-    <div btn-blue ng-repeat="arbol in main.three">
+    <div ng-repeat="arbol in main.three">
       <div class="thumbnail">
         <div class="caption">
-          <p><a ng-href="{{arbol.url}}">{{arbol.name}}</a></p>
+          <div btn-blue properties="arbol"></div>
         </div>
       </div>
     </div>
