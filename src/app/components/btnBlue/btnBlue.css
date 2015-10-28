@@ -1,1 +1,9 @@
-
+.quarter{
+  display: inline-block;
+  border-radius: 3px;
+  width: 120px;
+  height: 120px;
+  background-color: #000088;
+  color: #FFFFFF;
+  text-align: center;
+}
