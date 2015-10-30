@@ -1,16 +1,23 @@
 <div class="container">
   <div>
-    <acme-navbar title="ppuS.title" buttons="ppuS.buttons"></acme-navbar>
+    <cabecera title="ppuS.title" buttons="ppuS.buttons"></cabecera>
   </div>
-
-  <div class="row">
-    <div ng-repeat="arbol in main.three">
-      <div class="thumbnail">
-        <div class="caption">
-          <div btn-blue properties="arbol"></div>
-        </div>
-      </div>
+  <div class="row rectangle">
+    <logo></logo>
+    <div class="phrases">
+      <p>Saldo de Puntos Estrella: 14.023</p>
+      <p>Puntos a caducar el 29/02/2016: 4.535</p>
     </div>
   </div>
-
+  <div class="row subText">
+      <p>Si desea canjear Puntos Estrella por regalos puede hacerlo en:</p>
+      <p> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span><strong>Internet:</strong> accediendo a www.lacaixa.es/puntosestrella</p>
+      <p> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span><strong>Móvil:</strong> descargándose la aplicación de Puntos Estrella</p>
+      <p> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span><strong>Oficina:</strong> dirigiéndose a cualquier oficina de CaixaBank</p>
+  </div>
 </div>
+<footer>
+  <div>
+      <btn-footer ng-repeat="btn in ppuS.footerbtn" properties="btn" ng-class="btn.position"></btn-footer>
+  </div>
+</footer>

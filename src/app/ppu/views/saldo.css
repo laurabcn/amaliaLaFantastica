@@ -1,0 +1,33 @@
+.rectangle{
+  border: 1px solid;
+  width: 65%;
+  margin: 0 auto;
+  clear: both;
+  font-size: 18px;
+}
+.rectangle logo{
+  text-align: left;
+}
+.rectangle .phrases{
+  display: inline-block;
+  vertical-align: text-bottom;
+  text-align: right;
+  position: relative;
+  width: 70%;
+
+}
+.rectangle .phrases p{
+  margin: 0 0 20px;
+}
+
+.subText{
+  width: 70%;
+  margin: 15px auto;
+  font-size: 18px;
+}
+.subText p{
+  text-indent: 15px;
+}
+.subText strong{
+  margin-left: 15px;
+}

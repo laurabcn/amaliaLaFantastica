@@ -3,7 +3,7 @@
 
   angular
     .module('amaliaLaFantastica')
-    .directive('acmeNavbar', acmeNavbar);
+    .directive('cabecera', acmeNavbar);
 
   /** @ngInject */
   function acmeNavbar() {

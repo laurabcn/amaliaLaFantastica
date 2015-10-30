@@ -1,0 +1,29 @@
+.btn-rectangle{
+  display: inline-block;
+  width: 180px;
+  height: 80px;
+  background-color: #000088;
+  color: #FFFFFF;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.btn-rectangle a{
+  color: #FFFFFF;
+}
+footer div{
+  width: 60%;
+  margin: 15px auto;
+}
+
+footer p{
+  margin: 0 0 0 0;
+}
+
+footer .left{
+  float: left;
+}
+
+footer .right{
+  float: right;
+}

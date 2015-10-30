@@ -1,7 +1,7 @@
-h3{
+.navbar-header h3{
   display: inline-block;
   position: relative;
-  width: 60%;
+  width: 40%;
   font-size: 15px;
   text-align: center;
   vertical-align: bottom;
@@ -12,7 +12,7 @@ logo {
   width: 100px;
   height: 100px;
 }
-.acme-navbar-text {
+.navbar-header .acme-navbar-text {
   color: white;
 }
 
@@ -22,17 +22,18 @@ logo {
   margin-right: 5px;
   margin-bottom: 25px;
 }
-.navbar-btn{
+
+.navbar-header .navbar-btn{
   display: inline-block;
   position: relative;
   width: auto;
+  float: right;
   vertical-align: top;
 }
 
-.btn-cabecera{
+.navbar-header .btn-cabecera{
   display: inline-block;
   position: relative;
-  right: 0px;
   top: 10px;
   margin:  0 5px 0 0;
   vertical-align: top;
@@ -45,36 +46,35 @@ logo {
   box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.11);
 }
 
-
-.btn-cabecera sub{
+.navbar-header .btn-cabecera sub{
   font-style: italic;
 }
 
-.btn-cabecera p{
+.navbar-header .btn-cabecera p{
   font-size: 12px;
   font-weight: bold;
 
   margin-bottom: 0;
 }
-.btn-cabecera sub{
+.navbar-header .btn-cabecera sub{
   bottom: 2px !important;
 }
 
-.glyphicon{
+.navbar-header .glyphicon{
   font-size: 18px;
   display: block!important;
   margin-top: 7px;
   padding: 5px 0 7px 0;
 }
-.glyphicon-home{
+.navbar-header .glyphicon-home{
   color: cornflowerblue;
 }
 
-.glyphicon-zoom-in{
+.navbar-header .glyphicon-zoom-in{
   color: darkseagreen;
 }
 
-.glyphicon-off{
+.navbar-header .glyphicon-off{
   color: red;
 }
 
