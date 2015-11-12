@@ -1,7 +1,9 @@
 {
   "name": "amaliaLaFantastica",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "gulp-load-plugins": "^0.10.0"
+  },
   "scripts": {
     "test": "gulp test"
   },

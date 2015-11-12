@@ -1,0 +1,14 @@
+.myGrid{
+  width:600px;
+  height:auto!important;
+  margin: 15px auto;
+  overflow: hidden!important;
+}
+
+.ui-grid-viewport{
+  overflow: hidden!important;
+}
+
+.ui-grid-canvas{
+  width: 100%!important;
+}
