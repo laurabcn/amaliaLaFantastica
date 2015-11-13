@@ -21,11 +21,17 @@
 
     return directive;
   }
-  papelPijamaController.$inject = ['$scope'];
+  //papelPijamaController.$inject = ['$scope'];
   function papelPijamaController($scope){
     var vm = this;
+    console.log($scope+"ENTRO");
 
-    console.log(vm.gridOptions+"GO");
+    console.log(vm.prop.classHeader+"vm");
+
+    if(vm.prop.classHeader){
+      vm.classTable = vm.prop.classHeader;
+    }
+    //console.log(vm.gridOptions+"GO");
   }
 
 })();

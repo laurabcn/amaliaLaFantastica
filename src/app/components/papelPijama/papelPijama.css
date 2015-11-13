@@ -2,7 +2,9 @@
   width:600px;
   height:auto!important;
   margin: 15px auto;
-  overflow: hidden!important;
+  /*overflow: hidden!important;*/
+  border-radius: 5px;
+
 }
 
 .ui-grid-viewport{
@@ -11,4 +13,38 @@
 
 .ui-grid-canvas{
   width: 100%!important;
+  border: 0 none!important;
+}
+.ui-grid-header-cell
+
+
+
+.ui-grid-header-cell-row{
+  color: grey;
+}
+
+.blue .ui-grid-header-cell-row{
+  background: dodgerblue;
+  border-color: dodgerblue;
+}
+
+.blue .ui-grid-row{
+
+}
+
+.yellow .ui-grid-header-cell-row{
+  background: yellow;
+  border-color: yellow;
+}
+
+.yellow .ui-grid-row:nth-child(even) .ui-grid-cell {
+  background: antiquewhite!important;
+  color: grey;
+}
+.lila .ui-grid-header-cell-row{
+  background: mediumorchid;
+  border-color: mediumorchid;
+}
+.colorRed{
+  color: red;
 }
