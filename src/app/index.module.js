@@ -13,7 +13,8 @@
       'ngRoute',
       'ui.bootstrap',
       'toastr',
-      'ui.grid'
+      'ui.grid',
+      'amaliaLaFantastica.service'
     ]
     );
 

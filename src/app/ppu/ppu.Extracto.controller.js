@@ -6,9 +6,9 @@
     .controller('PpuExtractoController', PpuExtractoController);
 
 
-  PpuExtractoController.$inject = ['$scope', 'uiGridConstants'];
+  PpuExtractoController.$inject = ['$scope', 'uiGridConstants', 'dataPpuServices'];
 
-  function PpuExtractoController($scope, uiGridConstants) {
+  function PpuExtractoController($scope, uiGridConstants, dataPpuServices) {
       var vm = this;
 
 
@@ -46,5 +46,14 @@
       //vars to footer
       vm.footerbtn  = [{name:'Atrás', image:'arrow-left', url:'/ppu/saldo', position: 'left'}, {name:'Imprimir', position:'right'},  {name:'Ver más movimientos', url:'/ppu/extracto', position:'right'}];
 
+      getData();
+
+      function getData(){
+        return dataPpuServices.getDataPpu()
+          .then(function(data){
+            vm.data = data;
+          })
+      }
+      console.log(vm.data + "Datos");
     }
 })();
