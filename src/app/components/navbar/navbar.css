@@ -46,6 +46,10 @@ logo {
   box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.11);
 }
 
+.navbar-header .btn-cabecera a:hover{
+  text-decoration: none;
+}
+
 .navbar-header .btn-cabecera sub{
   font-style: italic;
 }

@@ -5,9 +5,11 @@
      <h3>{{vm.title}}</h3>
      <div class="navbar-btn">
           <div class="btn-cabecera" ng-repeat="button in vm.buttons" ng-click="button.click">
-            <span class="glyphicon glyphicon-{{button.image}}" aria-hidden="true"></span>
-            <p>{{button.name}}</p>
-            <sub>{{button.subtitle}}</sub>
+            <a href="button.url">
+              <span class="glyphicon glyphicon-{{button.image}}" aria-hidden="true"></span>
+              <p>{{button.name}}</p>
+              <sub>{{button.subtitle}}</sub>
+            </a>
           </div>
      </div>
     </div>

@@ -4,6 +4,7 @@
   margin: 15px auto;
   /*overflow: hidden!important;*/
   border-radius: 5px;
+  border: none;
 
 }
 
@@ -15,9 +16,9 @@
   width: 100%!important;
   border: 0 none!important;
 }
-.ui-grid-header-cell
-
-
+.ui-grid-header-cell, .ui-grid-cell, .ui-grid-header{
+  border: none;
+}
 
 .ui-grid-header-cell-row{
   color: grey;
@@ -28,8 +29,9 @@
   border-color: dodgerblue;
 }
 
-.blue .ui-grid-row{
-
+.blue .ui-grid-row:nth-child(even) .ui-grid-cell {
+  background: lightskyblue;
+  color: #fff;
 }
 
 .yellow .ui-grid-header-cell-row{
@@ -41,9 +43,15 @@
   background: antiquewhite!important;
   color: grey;
 }
+
 .lila .ui-grid-header-cell-row{
   background: mediumorchid;
   border-color: mediumorchid;
+}
+
+.lila .ui-grid-row:nth-child(even) .ui-grid-cell {
+  background: mediumorchid;
+  color: #fff;
 }
 .colorRed{
   color: red;

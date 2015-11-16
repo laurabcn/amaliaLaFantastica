@@ -11,6 +11,7 @@
   function PpuExtractoController($scope, uiGridConstants) {
       var vm = this;
 
+
       vm.gridOptions = {
         enableHorizontalScrollbar : uiGridConstants.scrollbars.NEVER, //deshabilita el scroll horizontal
         enableVerticalScrollbar   : uiGridConstants.scrollbars.NEVER, //deshabilita el scroll vertical
@@ -22,7 +23,7 @@
         {field: 'concepto', displayName: 'Concepto', width:225},
         {field: 'fecha', displayName: 'Fecha', width: 100},
         {field: 'origen', displayName: 'Origen', width: 205},
-        {field: 'puntos', displayName: 'Puntos', width: 70, cellClass: function(grid, row, col, rowRenderIndex, colRenderIndex){
+        {field: 'puntos', displayName: 'Puntos', width: 70, cellClass: function(grid, row, col){
           if(grid.getCellValue(row, col) < 0 ){
             return 'colorRed';
           }
@@ -36,11 +37,14 @@
         {concepto: "Decathlon", fecha: "08-09-15", origen: "4548 4845 4548 4845", "puntos": +12},
         {concepto: "Metro", fecha: "20-09-15", origen: "4548 4845 4548 4845", "puntos": +2}
       ];
-
-      vm.gridOptions.classHeader = 'yellow';
+      //indicamos el color de la tabla
+      vm.gridOptions.classHeader = 'blue';
       //Titulo de la cabecera
       vm.title = 'Extracto de Puntos Estrella';
       //Titulo de los botones
-      vm.buttons = [{name: 'Inicio', image: 'home'}, {name: 'Ayuda', image: 'zoom-in',  subtitle: 'Buscador' }, {name: 'Salir', image: 'off', subtitle: 'Retirar Tarjeta'}];
+      vm.buttons = [{name: 'Inicio', image:'home', url:'/'}, {name: 'Ayuda', image:'zoom-in', subtitle: 'Buscador', url:'/'}, {name:'Salir', image: 'off', subtitle: 'Retirar Tarjeta', url:'/'}];
+      //vars to footer
+      vm.footerbtn  = [{name:'Atrás', image:'arrow-left', url:'/ppu/saldo', position: 'left'}, {name:'Imprimir', position:'right'},  {name:'Ver más movimientos', url:'/ppu/extracto', position:'right'}];
+
     }
 })();
