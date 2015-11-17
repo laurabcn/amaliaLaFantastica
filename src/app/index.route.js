@@ -22,6 +22,7 @@
         controller: 'PpuExtractoController',
         controllerAs: 'ppuE'
       })
+
       .otherwise({
         redirectTo: '/'
       });

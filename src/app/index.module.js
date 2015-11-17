@@ -14,8 +14,8 @@
       'ui.bootstrap',
       'toastr',
       'ui.grid',
-      'amaliaLaFantastica.service'
-    ]
-    );
-
+      'amaliaLaFantastica.service',
+      'amaliaLaFantastica.filters',
+      'angularXml2json'
+    ]);
 })();

@@ -6,26 +6,26 @@ angular
   .module('amaliaLaFantastica.service', [])
   .factory('dataPpuServices', dataPpuServices);
 
-dataPpuServices.$inject = ['$http'];
+dataPpuServices.$inject = ['$http', 'ngXml2json'];
 
-function dataPpuServices($http){
-  return{
-    getDataPpu : getDataPpu
-  };
+function dataPpuServices($http, ngXml2json){
+ return {
+   getDataPpu: getDataPpu
+ };
 
   function getDataPpu(){
-    return $http.get('c:/emulador/ppu_extracto_si.xml')
+    return $http.get('emulador/ppu_extracto_si.xml')
       .then(getDataPpuComplete)
       .catch(getDataPpuFailed);
 
     function getDataPpuComplete(response){
-      var translate = angular.toJson(response, true);
-
-      return translate.data.results;
+      var translate = ngXml2json.parser(response.data);
+      return translate;
     }
 
     function getDataPpuFailed(){
-      alert("ERROR getDataPpuFailed");
+      console.log("ERROR getDataPpuFailed");
     }
   }
 }
+
