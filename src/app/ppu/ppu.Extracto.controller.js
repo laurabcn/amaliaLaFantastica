@@ -6,9 +6,9 @@
     .controller('PpuExtractoController', PpuExtractoController);
 
 
-  PpuExtractoController.$inject = ['$scope', 'uiGridConstants', 'dataPpuServices', 'StringToDateFilter'];
+  PpuExtractoController.$inject = ['$scope', 'uiGridConstants', 'dataPpuServices'];
 
-  function PpuExtractoController($scope, uiGridConstants, dataPpuServices, StringToDateFilter) {
+  function PpuExtractoController($scope, uiGridConstants, dataPpuServices) {
       var vm = this;
 
 
@@ -21,7 +21,7 @@
       //cabecera del grid: field->nombre del campo del xml | displayName->el nombre que queremos que se vea | width->Definimos el ancho del campo
       vm.gridOptions.columnDefs = [
         {field: 'conceptocatalan', displayName: 'Concepte', width:225},
-        {field: 'fechaoperacion', displayName: 'Fecha', width: 100, cellFilter: 'StringToDateFilter:this'},
+        {field: 'fechaoperacion', displayName: 'Fecha', width: 100},
         {field: 'datosadicionalescatalan', displayName: 'Origen', width: 205},
         {field: 'puntosmovimiento', displayName: 'Puntos', width: 70, cellClass: function(grid, row, col){
           if(grid.getCellValue(row, col) < 0 ){
@@ -44,7 +44,7 @@
       function getData(){
         return dataPpuServices.getDataPpu()
           .then(function(data){
-            vm.gridOptions.data = vm.data.doc.toextractopuntosout.listamovimientosretornados.listamovimientosretornado;
+            vm.gridOptions.data = data.doc.toextractopuntosout.listamovimientosretornados.listamovimientosretornado;
           })
           .catch(function(error){
             logger.error('PpuExtractoController' + error.data);

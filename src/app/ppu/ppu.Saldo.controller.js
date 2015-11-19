@@ -5,8 +5,11 @@
     .module('amaliaLaFantastica')
     .controller('PpuSaldoController', PpuSaldoController);
 
+  PpuSaldoController.$inject = ['$scope', 'dataPpuServices'];
+
   /** @ngInject */
-  function PpuSaldoController() {
+  function PpuSaldoController($scope, dataPpuServices) {
+
     var vm = this;
     //vars to cabecera
     vm.title   = 'Puntos Estrella';
@@ -15,6 +18,18 @@
 
     //vars to footer
     vm.footerbtn  = [{name:'Atrás', image:'arrow-left', url:'/', position: 'left'}, {name:'Extracto', url:'/ppu/extracto', position:'left'}];
+
+    getData();
+
+    function getData(){
+      return dataPpuServices.getDataPpu()
+        .then(function(data){
+          vm.data = data.doc;
+        })
+        .catch(function(error){
+          logger.error('PpuSaldoController' + error.data);
+        });
+    }
 
   }
 })();
