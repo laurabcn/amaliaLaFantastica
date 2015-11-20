@@ -1,0 +1,232 @@
+JLI_nOk		= "Opera\u0163ie#temporar# in#disponibil\u0103";
+JLI_operativaNoDisp = "OPERATIV\u0102 TEMPORAR INDISPONIBIL\u0102";
+JLI_opcancel="# #       * * * * * OPERA\u0162IE ANULAT\u0102 * * * * *";
+JLI_opcorrect	= "#Opera\u0163ie efectuat\u0103 corect";
+JLI_noPrint	= "#Imprimant\u0103 indisponibil\u0103.";
+JLI_noimpre="Ne pare r\u0103u, dar în acest moment nu v\u0103 putem#elibera chitan\u0163a";
+JLI_puntostitul="Programe de puncte";
+JLI_puntos="PUNCTE";
+JLI_puntsEstrella = "Puntos Estrella";
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_ExtractoTitle = "Extracto de Puntos Estrella";
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 
+
+JLI_Origen = "Origen"; 
+/*ppu002*/
+
+JLI_con1="PROMOVARE";
+JLI_con2="Soldul punctelor disponibile";
+JLI_con3="Pentru a vedea cadourile sau a schimba punctele marca\u0163i";
+
+/*Mensajes de nok  */
+
+JLI_nokT02="Pentru a preda la schimb acest cdaou#trebuie s\u0103 folosi\u0163i operativa #Vânzare de bilete de intrare";
+JLI_nokT03="Acest cadou nu poate fi predat#prin intermediul serviciului ServiCaixa.#V\u0103 rug\u0103m s\u0103 consulta\u0163i la oficiul dv";
+JLI_nokT04="Acest cadou nu poate fi #predat pentru moment.#V\u0103 rug\u0103m s\u0103 ne scuza\u0163i";
+JLI_nokT99="Acest cadou este epuizat#V\u0103 rug\u0103m s\u0103 ne scuza\u0163i";
+JLI_noknopunts="Dumneavoastr\u0103 nu dispune\u0163i de punctele necesare#pentru a le schimba pentru cadoul ales.#V\u0103 rug\u0103m s\u0103 alege\u0163i alt cadou #de acord cu punctele dv disponibile.";
+
+/*ppu003*/
+
+JLI_sel1="Pentru a schimba punctele dv pentru cadouri atinge\u0163i imaginea cadoului dorit";
+JLI_sel1_3830="Pentru a schima punctele dv ap\u0103sa\u0163i tecla";
+JLI_saltarPag="S\u0103ri\u0163i peste \nPagin\u0103";
+
+/*ppu004*/
+JLI_conf1="Dv a\u0163i solicitat";
+JLI_conf2="dac\u0103 efectua\u0163i aceast\u0103 opera\u0163ie, soldul dv în puncte va fi urm\u0103toarul";
+JLI_conf3="Totalul punctelor acumulate";
+JLI_conf4="Totalul punctelor schimbate";
+JLI_conf5="Totalul punctelor disponibile";
+JLI_conf6="Va trebui s\u0103 ridica\u0163i acest cadou la oficiul:";
+JLI_conf7="Sunte\u0163i de acord";
+JLI_dona="V\u0103 mul\u0163umim pentru dona\u0163ie";
+JLI_conftip06="Va trebui s\u0103 ridica\u0163i acest cadou la stabilimentele de referin\u0163\u0103";
+JLI_selecget="Alege\u0163i unde dori\u0163i s\u0103 v\u0103 ridica\u0163i cadoul";
+JLI_ensuof="La oficiu";
+JLI_ensucasa="La domiciliu";
+JLI_telef="Telefon";
+JLI_timeget="Ora de predare";
+JLI_datget="Date privind predarea";
+JLI_direcc="Adresa";
+JLI_pobyprov="Localitate \u015fi provincie";
+JLI_codpost="Cod po\u015ftal";
+JLI_recdomi="Ve\u0163i primi acest cadou la domiciliu:";
+JLI_tlf="tel.";
+JLI_recofic="Va trebui s\u0103 ridica\u0163i acest cadou la oficiul:";
+JLI_noktime="Orarul de ridicare trebuie s\u0103 fie #între 9:00 \u015fi 18:00";
+JLI_advicetime="Ora de ridicare trebuie s\u0103 fie #între 9:00 \u015fi 18:00";
+
+/* impresion de recibos*/
+
+JLI_titular="TITULAR";
+JLI_nomYap="Prenume \u015fi nume";
+JLI_NIF="NIF";
+JLI_nifimpre="NIF";
+JLI_regalo="CADOU";
+JLI_imp1="Acest document este valabil pentru a fi predat la schimb în conformitate cu condi\u0163iile generale";
+JLI_imp2="ale campaniei comerciale indicate";
+JLI_imp3="Nu este valabil ca document negociabil";
+
+
+/* texto de recibos segun tipo de regalo*/
+
+JLI_tipo00a="BON PENTRU RIDICAREA CADOUL SPECIFICAT DE";
+JLI_tipo00b="LA OFICIUL";
+JLI_tipo05a="V\u0103 mul\u0163umim pentru dona\u0163ie";
+JLI_tipo06a="BON PENTRU CADOURILE SPECIFICATE, PENTRU A FI RIDICATE DE";
+JLI_tipo06b="LA STABILIMENTELE DE REFERIN\u0162\u0102";
+JLI_tipodoca="BON PENTRU CADOUL SPECIFICAT, CARE SE PRED\u0102";
+JLI_tipodocb="LA DOMICILIUL SPECIFICAT";
+JLI_rec1="DOMICILIU:";
+JLI_rec2="COD PO\u015eTAL:";
+JLI_rec3="LOC./PROV.:";
+JLI_rec4="TELEFON:";
+JLI_rec5="Ora de ridicare:";
+
+
+
+/*Mensajes  de nok de relleno del formulario*/
+
+JLI_form1= "# ESTE OBLIGATORIU S\u0102 SE DEA";
+JLI_la="LA ";
+JLI_el="EL ";
+
+
+JLI_con3F3="Pentru a vedea cadourile sau a schimba punctele ap\u0103sa\u0163i CONTINU.";
+JLI_ensuofF3="OFICIUL";
+
+JLI_ensucasaF3="Domiciliu";
+
+/*ppu002b*/
+JLI_RAN0="Toate";
+JLI_RAN1="Începând de la 300 puncte";
+JLI_RAN2="Începând de la 700 puncte";
+JLI_RAN3="Începând de la 1000 puncte";
+JLI_RAN4="Începând de la 3000 puncte";
+JLI_RAN5="Începând de la 5000 puncte";
+
+
+// Literals per a les pàgines de nova imatge.
+JLI_amblliu = "Cu predare la:";
+JLI_oficina="OFICIUL";
+
+// Literals pàgina ppu_escolliregal.htm.
+JLI_noRegals = "Nu exist\u0103 cadouri pentru intervalul de puncte ales";
+
+//Literals pàgina ppu_canvioficina.htm
+JLI_ofisig="Agen\u0163ia dvs. este:";
+JLI_opcional="(Optativ)";
+JLI_ofidistinta="Dac\u0103 dori\u0163i s\u0103 ridica\u0163i cadoul de la o alt\u0103 agen\u0163ie, v\u0103 rug\u0103m s\u0103 introduce\u0163i num\u0103rul acesteia:";
+
+JLI_boto3_txt= "Într-o agen\u0163ie 'la Caixa'";
+JLI_sol_txt  = "A\u0163i solicitat:";
+JLI_info_txt = "V\u0103 rug\u0103m indica\u0163i unde dori\u0163i s\u0103 ridica\u0163i cadoul:";
+JLI_saldoact_txt = "Sold actual de puncte Stea:";
+JLI_bescanvi_txt = "Puncte disponibile pentru a fi schimbate:";
+JLI_resultat_txt = "Sold final de puncte Stea:";
+JLI_boto1_txt = "La domiciliul dv";
+JLI_boto2_txt = "La oficiul bancar";
+JLI_lit_punts = "puncte";
+JLI_ofiNok= "Num\u0103rul agen\u0163iei nu este valid";
+
+/*************************************
+   LITERLS PER NEW LOOK
+**************************************/
+JLI_NL_titulo = "puncte Estrella";
+
+JLI_NL_ppu001Tit = "Indique la operación que desea realizar";
+JLI_NL_suSaldoIni = "#Soldul dvs. este de ";
+JLI_NL_suSaldoFin = " Puncte Estrella#";
+JLI_NL_solicitarRegalo = "Solicitare cadou din#catalog";
+JLI_NL_compraDeEntradas = "Cump\u0103rare bilete la#spectacole";
+
+JLI_NL_ppu002Tit = "Selecta\u0163i de la câte puncte în sus dori\u0163i s\u0103 alege\u0163i cadoul";
+JLI_NL_500puntos = "De la 500 de puncte în sus";
+JLI_NL_1000puntos = "De la 1.000 de puncte în sus";
+JLI_NL_2000puntos = "De la 2.000 de puncte în sus";
+JLI_NL_4500puntos = "De la 4.500 de puncte în sus";
+JLI_NL_todos = "Toate cadourile";
+
+JLI_NL_ppu003Tit = "Selecta\u0163i cadoul dorit";
+JLI_NL_mas = "Alte";
+JLI_NL_regalosPs = "cadouri\u2026";
+JLI_NL_seleccionar = "Selectare";
+
+JLI_NL_puntos = "puncte";
+
+JLI_NL_ppu004Tit = "Selecta\u0163i unde dori\u0163i s\u0103 primi\u0163i cadoul ales";
+JLI_PPUNL_saldoPunts = "Sold actual de Puncte Estrella:";
+JLI_PPUNL_puntsCanvi = "Puncte de schimbat:";
+JLI_PPUNL_saldoFinal = "Sold final Puncte Estrella:";
+JLI_NL_enDomicilio = "La domiciliul dvs.#";
+JLI_NL_enOficina = "La o agen\u0163ie \"la Caixa\"#";
+
+JLI_NL_ppu005aTit = "Verifica\u0163i datele \u015fi apoi\nselecta\u0163i \"Continuare\"";
+JLI_PPUNL_poblacioProvincia = "Localitate \u015fi provincie:";
+JLI_PPUNL_direccio = "Adresa:";
+JLI_PPUNL_codiPostal = "Codul po\u015ftal:";
+
+JLI_NL_ppu005bTit = "Verifica\u0163i datele \u015fi apoi\nselecta\u0163i \"Continuare\"";
+JLI_PPUNL_oficina = "Sucursala:";
+JLI_PPUNL_poblacio = "Localitate:";
+JLI_PPUNL_canviOficina = "Dac\u0103 dori\u0163i, pute\u0163i schimba sucursala";
+JLI_PPUNL_bot_canviarOficina = "Schimbare#sucursal\u0103";
+
+JLI_NL_ppu006Tit = "Introduce\u0163i adresa la care dori\u0163i s\u0103 primi\u0163i cadoul";
+
+JLI_NL_ppu007aTit = "Introduce\u0163i un num\u0103r de telefon de contact";
+JLI_PPUNL_telefon = "Telefon de contact:";
+JLI_PPUNL_hora = "Ora de primire:";
+JLI_PPUNL_franjaHoraria = "(de la 09:00 la 18:00)";
+
+JLI_NL_ppu007bTit = "Tasta\u0163i num\u0103rul sucursalei la care dori\u0163i s\u0103 primi\u0163i cadoul";
+JLI_NL_import = "Suma:";
+JLI_NL_numOficina = "Num\u0103rul sucursalei:";
+
+JLI_NL_ppu008Tit = "Verifica\u0163i datele solicit\u0103rii \u015fi apoi\nselecta\u0163i \"Confirmare solicitar\"";
+JLI_NL_graciasDonativo = "Mul\u0163umim pentru dona\u0163ia dvs.";
+JLI_PPUNL_direccioEntrega = "Adresa de predare:";
+JLI_PPUNL_telefonContacte = "Telefon de contact:";
+JLI_PPUNL_horaEntrega = "Ora de predare:";
+JLI_PPUNL_oficinaEntrega = "Sucursala de predare:";
+JLI_NL_horas = "ora";
+JLI_NL_confirmarSolicitud = "Confirmare solicitare";
+JLI_NL_conComprobante = "(cu chitan\u0163\u0103)";
+JLI_NL_sinComprobante = "(f\u0103r\u0103 chitan\u0163\u0103)";
+JLI_NL_opRealizada = "Solicitare cadou finalizat\u0103 cu succes";
+JLI_NL_retComprobante = "Ridica\u0163i chitan\u0163a";
+JLI_NL_comRetirado = "Chitan\u0163a a fost ridicat\u0103";
+
+JLI_NL_regalmes = "Cadoul lunii";
+JLI_PPU_ParaClientesSin = "Para clientes sin # ~ puntos";
+JLI_PPU_ParaClientesCon = "Para clientes con # sólo ~ puntos";
+
+/* ITEM 15284  Multicanalidad PUN - Extracto de la cuenta de puntos  */
+JLI_PPU_Titulares = "Operación no disponible para&libretas con más de un titular";
+
+JLI_NL_Otras_Extracto_Puntos		=	"Extracto de la #cuenta de puntos";	
+JLI_NL_Otras_Extracto_Puntos_Titulo	=	"Extracto de la cuenta de puntos";	
+JLI_NL_Otras_Cuentas_Puntos	 		=	"Consultar otras#cuentas de puntos";   
+JLI_NL_Otras_Cuentas_Puntos_Titulo	=	"Consulta de otras cuentas de puntos"
+JLI_NL_indique_cuenta_puntos 		= "Indique la cuenta de puntos con la que desea operar";  
+
+JLI_Fecha 		= "Data";
+JLI_Concepto 	= "Concept";
+JLI_Puntos2   	= "Puntos";
+JLI_NumCuenta 	= "Num\u0103rul contului";
+JLI_SaldoPuntos = "Soldul punctelor"
+JLI_pagina ="Pág.";
+
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 

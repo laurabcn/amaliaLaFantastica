@@ -5,8 +5,8 @@
   <div class="row rectangle">
     <logo></logo>
     <div class="phrases">
-      <p>Saldo de Puntos Estrella: 14.023</p>
-      <p>Puntos a caducar el 29/02/2016: 4.535</p>
+      <p>{{ppuS.literals}}Saldo de Puntos Estrella: {{ppuS.data.saldototalpuntos}}</p>
+      <p ng-hide="ppuS.data.saldopuntoscaducidadany <= 0">Puntos a caducar el 29/02/2016: {{ppuS.data.saldopuntoscaducidadany}}</p>
     </div>
   </div>
   <div class="row subText">

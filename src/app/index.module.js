@@ -16,6 +16,8 @@
       'ui.grid',
       'amaliaLaFantastica.service',
       'amaliaLaFantastica.filters',
+      'amaliaLaFantastica.translations',
       'angularXml2json'
-    ]);
+    ])
+
 })();

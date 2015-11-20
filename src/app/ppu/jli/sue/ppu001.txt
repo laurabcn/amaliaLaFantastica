@@ -1,0 +1,231 @@
+JLI_nOk		= "Transaktion#tillfälligt inte#tillgänglig";
+JLI_operativaNoDisp = "BANKOMATTJÄNSTEN TILLFÄLLIGT INTE TILLGÄNGLIG";
+JLI_opcancel="# #       * * * * * TRANSAKTION ANNULLERAD * * * * * " ;
+JLI_opcorrect	= "#Transaktion korrekt utförd";
+JLI_noPrint	= "#Skrivare inte tillgänglig";
+JLI_noimpre="Vi beklagar, men för tillfället kan vi inte#ge dig kvittot";
+JLI_puntostitul="Program med bonuspoäng";
+JLI_puntos="BONUSPOÄNG";
+JLI_puntsEstrella = "Estrella-poäng";
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_ExtractoTitle = "Extracto de Puntos Estrella";
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 
+
+JLI_Origen = "Origen"; 
+
+
+JLI_con1="LANSERING";
+JLI_con2="Saldo på tillgängliga bonuspoäng";
+JLI_con3="För att se presenter eller lösa in bonuspoäng";
+
+
+
+JLI_nokT02="För att lösa in denna present#måste du gå via bankomattjänsten#Försäljning av entrébiljetter";
+JLI_nokT03="Du kan inte lösa in denna present#från ServiCaixa.#Vänligen kontakta ditt bankkontor.";
+JLI_nokT04="För närvarande#kan du inte lösa in denna present.#Vi beklagar besväret";
+JLI_nokT99="Denna present har tagit slut.#Vi beklagar besväret";
+JLI_noknopunts="Du har inte tillräckligt många bonuspoäng#för att lösa in den present du valt.#Vänligen välj en annan present#i enlighet med de poäng du har till ditt förfogande.";
+
+
+
+JLI_sel1="För att lösa in dina bonuspoäng, rör vid bilden på presenten du vill ha";
+JLI_sel1_3830="För att lösa in dina bonuspoäng, tryck på knappen för den present du vill ha";
+JLI_saltarPag="Hoppa till nästa\nsida";
+
+
+JLI_conf1="Du har begärt";
+JLI_conf2="om du utför denna transaktion, kommer dina ackumulerade bonuspoäng att vara ";
+JLI_conf3="Summa ackumulerade poäng";
+JLI_conf4="Summa inlösta poäng";
+JLI_conf5="Summa tillgängliga poäng";
+JLI_conf6="Du måste hämta denna present på bankkontoret:";
+JLI_conf7="Godkänner du det?";
+JLI_dona="Tack för din gåva";
+JLI_conftip06="Du måste hämta denna present på de angivna ställena";
+JLI_selecget="Välj var du vill hämta presenten";
+JLI_ensuof="På ert kontor";
+JLI_ensucasa="På er hemadress";
+JLI_telef="Teléfon";
+JLI_timeget="Tidpunkt för leveransen";
+JLI_datget="Uppgifter om leveransen";
+JLI_direcc="Adress";
+JLI_pobyprov="Ort och provins";
+JLI_codpost="Postnummer";
+JLI_recdomi="Du kommer att få denna present till din hemadress:";
+JLI_tlf="tel.";
+
+JLI_recofic="Du måste hämta denna present på bankkontoret:";
+JLI_noktime="Du kan hämta presenten#mellan klockan 9:00 och 18:00";
+JLI_advicetime="Tiden för att hämta presenten är mellan klockan 9:00 och 18:00";
+
+
+
+JLI_titular="INNEHAVARE";
+JLI_nomYap="Förnamn och efternamn ";
+JLI_NIF="NIF";
+JLI_nifimpre="NIF";
+JLI_regalo="PRESENT";
+JLI_imp1="Detta dokument gäller för inlösning i enlighet med de allmänna villkoren";
+JLI_imp2="för den angivna reklamkampanjen";
+JLI_imp3="Det gäller inte som förhandlingsbart dokument";
+
+
+
+
+JLI_tipo00a="DET GÄLLER FÖR DEN SPECIFICERADE PRESENTEN ATT HÄMTAS PÅ";
+JLI_tipo00b="BANKKONTORET ";
+JLI_tipo05a="TACK FÖR DIN GÅVA";
+JLI_tipo06a="DET GÄLLER FÖR DE SPECIFICERADE PRESENTERNA ATT HÄMTAS  ";
+JLI_tipo06b="PÅ DE ANGIVNA PLATSERNA "; 
+JLI_tipodoca="GÄLLER FÖR DEN SPECIFICERADE PRESENTEN ATT LEVERERAS ";
+JLI_tipodocb="PÅ DEN HEMADRESS SOM SPECIFICERAS";
+JLI_rec1="ADRESS: ";
+JLI_rec2="POSTNUMMER: ";
+JLI_rec3="ORT/PROVINS: ";
+JLI_rec4="TELÉFON: ";
+JLI_rec5="Tid för hämtning:";
+
+
+
+
+
+JLI_form1= "  # DET ÄR OBLIGATORISKT ATT GE ";
+JLI_la=" ";
+JLI_el=" ";
+
+
+JLI_con3F3="För att se presenter eller lösa in bonuspoäng, tryck på FORTSÄTTA";
+JLI_ensuofF3="bankkontor";
+
+JLI_ensucasaF3="hemadress";
+
+
+JLI_RAN0="Alla";
+JLI_RAN1="Från och med 300 poäng";
+JLI_RAN2="Från och med 700 poäng";
+JLI_RAN3="Från och med 1000 poäng";
+JLI_RAN4="Från och med 3000 poäng";
+JLI_RAN5="Från och med 5000 poäng";
+
+
+// Literals per a les pàgines de nova imatge.
+JLI_amblliu = "Att lämnas ut på:";
+JLI_oficina="Bankkontor ";
+
+// Literals pàgina ppu_escolliregal.htm.
+JLI_noRegals = "Det finns inga presenter för de valda poängen";
+
+//Literals pàgina ppu_canvioficina.htm
+JLI_ofisig="Ditt bankkontor är följande:";
+JLI_opcional="(Valfritt)";
+JLI_ofidistinta="Om du vill hämta den på ett annat bankkontor än ditt vanliga, ange kontorsnumret för detta kontor:";
+
+JLI_boto3_txt= "På ett av la Caixa- kontoren";
+JLI_sol_txt  = "Godkänner ni?";
+JLI_info_txt = "Var god ange var ni vill hämta er gåva:";
+JLI_saldoact_txt = "Aktuellt saldo  på Puntos Estrella:";
+JLI_bescanvi_txt = "Puntos att växla in:";
+JLI_resultat_txt = "Slutligt saldo på Puntos Estrella:";
+JLI_boto1_txt = "Till er hemadress";
+JLI_boto2_txt = "På ert kontor";
+JLI_lit_punts = "poäng";
+JLI_ofiNok= "Kontorsnumret är inte rätt";
+
+
+JLI_NL_titulo = "Estrella-poäng";
+
+JLI_NL_ppu001Tit = "Indique la operación que desea realizar";
+JLI_NL_suSaldoIni = "#Ditt saldo är ";
+JLI_NL_suSaldoFin = " Estrella-poäng#";
+JLI_NL_solicitarRegalo = "Beställa en present ur#katalogen";
+JLI_NL_compraDeEntradas = "Biljettköp till#nöjesevenemang";
+
+JLI_NL_ppu002Tit = "Ange de poäng från och med vilka du vill se presenterna";
+JLI_NL_500puntos = "Från och med 500 poäng";
+JLI_NL_1000puntos = "Från och med 1000 poäng";
+JLI_NL_2000puntos = "Från och med 2000 poäng";
+JLI_NL_4500puntos = "Från och med 4500 poäng";
+JLI_NL_todos = "Alla";
+
+JLI_NL_ppu003Tit = "Ange den present du vill ha";
+JLI_NL_mas = "Mera";
+JLI_NL_regalosPs = "presenter...";
+JLI_NL_seleccionar = "Välja";
+
+JLI_NL_puntos = "poäng";
+
+JLI_NL_ppu004Tit = "Ange var du vill ta emot den valda presenten";
+JLI_PPUNL_saldoPunts = "Nuvarande saldo på Estrella-poäng:";
+JLI_PPUNL_puntsCanvi = "Poäng att lösa in:";
+JLI_PPUNL_saldoFinal = "Utgående saldo på Estrella-poäng:";
+JLI_NL_enDomicilio = "På din hemadress#";
+JLI_NL_enOficina = "På ett \"la Caixa\"#kontor";
+
+JLI_NL_ppu005aTit = "Kontrollera uppgifterna för ditt bankkontor och\nmarkera sedan \"Fortsätta\"";
+JLI_PPUNL_poblacioProvincia = "Ort och provins:";
+JLI_PPUNL_direccio = "Adress:";
+JLI_PPUNL_codiPostal = "Postnummer:";
+
+JLI_NL_ppu005bTit = "Kontrollera uppgifterna för ditt bankkontor och\nmarkera sedan \"Fortsätta\"";
+JLI_PPUNL_oficina = "Bankkontor:";
+JLI_PPUNL_poblacio = "Ort:";
+JLI_PPUNL_canviOficina = "Om du vill kan du ändra bankkontor";
+JLI_PPUNL_bot_canviarOficina = "Ändra#kontor";
+
+JLI_NL_ppu006Tit = "Ange adressen där du vill ta emot presenten";
+
+JLI_NL_ppu007aTit = "Ange ett telefonnummer för kontakt";
+JLI_PPUNL_telefon = "Kontakttelefon:";
+JLI_PPUNL_hora = "Tidpunkt för överlämnandet:";
+JLI_PPUNL_franjaHoraria = "(från 09:00 till 18:00)";
+
+JLI_NL_ppu007bTit = "Ange numret på det bankkontor där du vill hämta presenten ";
+JLI_NL_import = "Belopp:";
+JLI_NL_numOficina = "Kontorsnummer:";
+
+JLI_NL_ppu008Tit = "Kontrollera uppgifterna för beställningen och\nmarkera sedan \"Bekräfta beställning\"";
+JLI_NL_graciasDonativo = "Tack för din gåva";
+JLI_PPUNL_direccioEntrega = "Leveransadress:";
+JLI_PPUNL_telefonContacte = "Kontakttelefon:";
+JLI_PPUNL_horaEntrega = "Tidpunkt för leverans:";
+JLI_PPUNL_oficinaEntrega = "Bankkontor för hämtning:";
+JLI_NL_horas = "klockan";
+JLI_NL_confirmarSolicitud = "Bekräfta beställning";
+JLI_NL_conComprobante = "(med kvitto)";    
+JLI_NL_sinComprobante = "(utan kvitto)";
+JLI_NL_opRealizada = "Beställning av present utförd";
+JLI_NL_retComprobante = "Tag ditt kvitto";
+JLI_NL_comRetirado = "Kvittot har tagits";
+
+JLI_NL_regalmes = "Månadens present";
+JLI_PPU_ParaClientesSin = "Para clientes sin # ~ puntos";
+JLI_PPU_ParaClientesCon = "Para clientes con # sólo ~ puntos";
+
+/* ITEM 15284  Multicanalidad PUN - Extracto de la cuenta de puntos  */
+JLI_PPU_Titulares = "Operación no disponible para&libretas con más de un titular";
+
+JLI_NL_Otras_Extracto_Puntos		=	"Extracto de la #cuenta de puntos";	
+JLI_NL_Otras_Extracto_Puntos_Titulo	=	"Extracto de la cuenta de puntos";	
+JLI_NL_Otras_Cuentas_Puntos	 		=	"Consultar otras#cuentas de puntos";   
+JLI_NL_Otras_Cuentas_Puntos_Titulo	=	"Consulta de otras cuentas de puntos"
+JLI_NL_indique_cuenta_puntos 		= "Indique la cuenta de puntos con la que desea operar";  
+
+JLI_Fecha 		= "Datum";
+JLI_Concepto 	= "Betalningen avser";
+JLI_Puntos2   	= "Bonuspoäng";
+JLI_NumCuenta 	= "Kontonummer";
+JLI_SaldoPuntos = "Saldo de Puntos"
+JLI_pagina 		= "Sida";
+
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 

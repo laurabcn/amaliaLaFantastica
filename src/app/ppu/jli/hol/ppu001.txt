@@ -1,0 +1,232 @@
+JLI_nOk		= "Verrichting#tijdelijk niet#uitvoerbaar";
+JLI_operativaNoDisp = "VERRICHTING TIJDELIJK NIET UITVOERBAAR";
+JLI_opcancel="# #       * * * * * TRANSACTIE GEANNULEERD * * * * * " ;
+JLI_opcorrect	= "#Transactie op de juiste wijze verricht";
+JLI_noPrint	= "#Printer niet beschikbaar";
+JLI_noimpre="Het spijt ons, op dit moment kunnen wij #u de transactiebon niet overhandigen";
+JLI_puntostitul="Puntenprogramma";
+JLI_puntos="PUNTEN";
+JLI_puntsEstrella = "Puntos Estrella";
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_ExtractoTitle = "Extracto de Puntos Estrella";
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 
+
+JLI_Origen = "Origen"; 
+/*ppu002*/
+
+JLI_con1="AANBIEDING";
+JLI_con2="Saldo beschikbare punten";
+JLI_con3="Om de geschenken te bekijken of de punten in te wisselen, druk op";
+
+/*Mensajes de nok  */
+
+JLI_nokT02="Om punten in te wisselen voor dit geschenk #dient u naar de verrichting#Verkoop van Entreebewijzen te gaan";
+JLI_nokT03="Er kunnen geen punten worden ingewisseld voor dit geschenk#vanuit de ServiCaixa.#Ga naar uw filiaal, a.u.b.";
+JLI_nokT04="Op dit moment kunnen geen punten worden ingewisseld voor#dit geschenk.#Onze excuses voor het ongemak";
+JLI_nokT99="Dit geschenk is niet meer in voorraad.#Onze excuses voor het ongemak";
+JLI_noknopunts="U heeft niet voldoende punten#om in te wisselen voor het gekozen geschenk.#Kies een andere geschenk uit#waarvoor u voldoende punten beschikbaar heeft.";
+
+/*ppu003*/
+
+JLI_sel1="Om punten in te wisselen, raak de afbeelding van het gewenste geschenk aan";
+JLI_sel1_3830="Om punten in te wisselen, druk op de knop van het gewenste geschenk";
+JLI_saltarPag="Pagina\nverspringen";
+
+/*ppu004*/
+JLI_conf1="U heeft gevraagd";
+JLI_conf2="als u deze verrichting doet, is uw puntensaldo als volgt";
+JLI_conf3="Totaal gespaarde punten";
+JLI_conf4="Totaal ingewisselde punten";
+JLI_conf5="Totaal beschikbare punten";
+JLI_conf6="U dient dit geschenk af te halen bij uw filiaal:";
+JLI_conf7="Gaat u akkoord?";
+JLI_dona="Bedankt voor uw gift";
+JLI_conftip06="U dient dit geschenk af te halen bij de vermelde vestigingen";
+JLI_selecget="Kies uit waar u uw geschenk wilt afhalen";
+JLI_ensuof="Naar uw bankkantoor";
+JLI_ensucasa="Naar uw woonadres";
+JLI_telef="Telefoon";
+JLI_timeget="Tijdstip van bezorging";
+JLI_datget="Gegevens van de bezorging";
+JLI_direcc="Adres";
+JLI_pobyprov="Woonplaats en provincie";
+JLI_codpost="Postcode";
+JLI_recdomi="U ontvangt uw geschenk op uw huisadres";
+JLI_tlf="Tel.";
+JLI_recofic="U dient dit geschenk af te halen bij uw filiaal:";
+JLI_noktime="U kunt uw geschenk afhalen#tussen 9:00 en 18:00";
+JLI_advicetime="Het tijdstip voor afhalen dient tussen 9:00 en 18:00 te zijn";
+
+/* impresion de recibos*/
+
+JLI_titular="HOUDER";
+JLI_nomYap="Naam en achternaam ";
+JLI_NIF="NIF (Sofi-nummer)";
+JLI_nifimpre="NIF (Sofi-nummer)";
+JLI_regalo="GESCHENK";
+JLI_imp1="Dit document is geldig om in te wisselen volgens de algemene voorwaarden";
+JLI_imp2="van de aangeduide handelscampagne";
+JLI_imp3="Het is niet geldig als document voor onderhandelen";
+
+
+/* texto de recibos segun tipo de regalo*/
+
+JLI_tipo00a="BON VOOR HET OMSCHREVEN GESCHENK, AF TE HALEN";
+JLI_tipo00b="BIJ HET FILIAAL ";
+JLI_tipo05a="Bedankt voor uw gift ";
+JLI_tipo06a="BON VOOR HET OMSCHREVEN GESCHENK, AF TE HALEN ";
+JLI_tipo06b="BIJ DE AANGEGEVEN VESTIGINGEN ";
+JLI_tipodoca="BON VOOR HET OMSCHREVEN GESCHENK, TE BEZORGEN ";
+JLI_tipodocb="OP HET OMSCHREVEN ADRES";
+JLI_rec1="ADRES: ";
+JLI_rec2="POSTCODE: ";
+JLI_rec3="WOONPL./PROV.: ";
+JLI_rec4="TELEFOON.:";
+JLI_rec5="Tijdstip van afhalen:";
+
+
+
+/*Mensajes  de nok de relleno del formulario*/
+
+JLI_form1= " # VERPLICHT";
+JLI_la="DE ";
+JLI_el="DE ";
+
+
+JLI_con3F3="Om de geschenken te bekijken of om punten in te wisselen, druk op VERDER";
+JLI_ensuofF3="Filiaal";
+
+JLI_ensucasaF3="huisadres";
+
+/*ppu002b*/
+JLI_RAN0="Alle";
+JLI_RAN1="Vanaf 300 punten";
+JLI_RAN2="Vanaf 700 punten";
+JLI_RAN3="Vanaf 1000 punten";
+JLI_RAN4="Vanaf 3000 punten";
+JLI_RAN5="Vanaf 5000 punten";
+
+
+// Literals per a les pàgines de nova imatge.
+JLI_amblliu = "Te bezorgen bij:";
+JLI_oficina="Filiaal";
+
+// Literals pàgina ppu_escolliregal.htm.
+JLI_noRegals = "Er zijn geen geschenken binnen de gekozen puntenreeks";
+
+//Literals pàgina ppu_canvioficina.htm
+JLI_ofisig="Uw filiaal is:";
+JLI_opcional="(Optioneel)";
+JLI_ofidistinta="Indien u het wilt afhalen bij een filiaal dat niet het uwe is, geef dan het nummer van het filiaal van bestemming:";
+
+JLI_boto3_txt= "In een filiaal van 'la Caixa'";
+JLI_sol_txt  = "U heeft aangevraagd::";
+JLI_info_txt = "Duid a.u.b. aan waar u uw geschenk wenst af te halen:";
+JLI_saldoact_txt = "Huidig saldo Puntos Estrella:";
+JLI_bescanvi_txt = "In te ruilen punten:";
+JLI_resultat_txt = "Eindsaldo Puntos Estrella:";
+JLI_boto1_txt = "Naar uw woonadres";
+JLI_boto2_txt = "Naar uw bankkantoor";
+JLI_lit_punts = "punten";
+JLI_ofiNok= "Het filiaalnummer is ongeldig";
+
+/*************************************
+   LITERLS PER NEW LOOK
+**************************************/
+JLI_NL_titulo = "Punten Estrella";
+
+JLI_NL_ppu001Tit = "Indique la operación que desea realizar";
+JLI_NL_suSaldoIni = "#Uw saldo is ";
+JLI_NL_suSaldoFin = " Puntos Estrella#";
+JLI_NL_solicitarRegalo = "Een geschenk uit de #catalogus aanvragen";
+JLI_NL_compraDeEntradas = "Aankoop van toegangsbewijzen van#voorstellingen";
+
+JLI_NL_ppu002Tit = "Geef aan vanaf hoeveel punten u de geschenken wilt bekijken";
+JLI_NL_500puntos = "Vanaf 500 punten";
+JLI_NL_1000puntos = "Vanaf 1.000 punten";
+JLI_NL_2000puntos = "Vanaf 2.000 punten";
+JLI_NL_4500puntos = "Vanaf 4.500 punten";
+JLI_NL_todos = "Alle";
+
+JLI_NL_ppu003Tit = "Geef aan welk geschenk u wilt ontvangen";
+JLI_NL_mas = "Meer";
+JLI_NL_regalosPs = "geschenken…";
+JLI_NL_seleccionar = "Kiezen";
+
+JLI_NL_puntos = "punten";
+
+JLI_NL_ppu004Tit = "Geef aan waar u het gekozen geschenk wilt ontvangen";
+JLI_PPUNL_saldoPunts = "Huidig puntensaldo Puntos Estrella:";
+JLI_PPUNL_puntsCanvi = "Punten om in te wisselen:";
+JLI_PPUNL_saldoFinal = "Eindsaldo Punten Estrella";
+JLI_NL_enDomicilio = "Op uw huisadres#";
+JLI_NL_enOficina = "Bij een filiaal van \"la Caixa\"#";
+
+JLI_NL_ppu005aTit = "Controleer de gegevens van uw filiaal en druk vervolgens\nop \"Verder\"";
+JLI_PPUNL_poblacioProvincia = "Woonplaats en provincie:";
+JLI_PPUNL_direccio = "Adres:";
+JLI_PPUNL_codiPostal = "Postcode:";
+
+JLI_NL_ppu005bTit = "Controleer de gegevens van uw filiaal en druk vervolgens\nop \"Verder\"";
+JLI_PPUNL_oficina = "Filiaal:";
+JLI_PPUNL_poblacio = "Woonplaats:";
+JLI_PPUNL_canviOficina = "U kunt desgewenst het filiaal wijzigen";
+JLI_PPUNL_bot_canviarOficina = "Filiaal#wijzigen";
+
+JLI_NL_ppu006Tit = "Toets de adresgegevens waar u het geschenk wilt ontvangen";
+
+JLI_NL_ppu007aTit = "Toets een contacttelefoonnummer en het tijdstip waarop";
+JLI_PPUNL_telefon = "Contacttelefoon:";
+JLI_PPUNL_hora = "Tijdstip van ontvangst:";
+JLI_PPUNL_franjaHoraria = "(van 09:00 tot 18:00)";
+
+JLI_NL_ppu007bTit = "Toets het nummer van het filiaal waar u het geschenk wilt ontvangen";
+JLI_NL_import = "Bedrag:";
+JLI_NL_numOficina = "Filiaalnummer:";
+
+JLI_NL_ppu008Tit = "Controleer de gegevens van uw aanvraag en druk vervolgens\nop \"Aanvraag bevestigen\"";
+JLI_NL_graciasDonativo = "Bedankt voor uw gift";
+JLI_PPUNL_direccioEntrega = "Bezorgadres:";
+JLI_PPUNL_telefonContacte = "Contact telefoon:";
+JLI_PPUNL_horaEntrega = "Tijdstip van bezorging:";
+JLI_PPUNL_oficinaEntrega = "Filiaal van bezorging:";
+JLI_NL_horas = "tijden";
+JLI_NL_confirmarSolicitud = "Aanvraag bevestigen";
+JLI_NL_conComprobante = "(met transactiebon)";
+JLI_NL_sinComprobante = "(zonder transactiebon)";
+JLI_NL_opRealizada = "Aanvraag voor geschenk ingediend";
+JLI_NL_retComprobante = "Neem uw transactiebon uit";
+JLI_NL_comRetirado = "Transactiebon uitgenomen";
+
+JLI_NL_regalmes = "Geschenk van de maand";
+JLI_PPU_ParaClientesSin = "Para clientes sin # ~ puntos";
+JLI_PPU_ParaClientesCon = "Para clientes con # sólo ~ puntos";
+
+/* ITEM 15284  Multicanalidad PUN - Extracto de la cuenta de puntos  */
+JLI_PPU_Titulares = "Operación no disponible para&libretas con más de un titular";
+
+JLI_NL_Otras_Extracto_Puntos		=	"Extracto de la #cuenta de puntos";	
+JLI_NL_Otras_Extracto_Puntos_Titulo	=	"Extracto de la cuenta de puntos";	
+JLI_NL_Otras_Cuentas_Puntos	 		=	"Consultar otras#cuentas de puntos";   
+JLI_NL_Otras_Cuentas_Puntos_Titulo	=	"Consulta de otras cuentas de puntos"
+JLI_NL_indique_cuenta_puntos 		= 	"Indique la cuenta de puntos con la que desea operar";  
+
+JLI_Fecha 		= "Datum";
+JLI_Concepto 	= "Omschrijving";
+JLI_Puntos2   	= "Punten";
+JLI_NumCuenta 	= "Rekeningnummer";
+JLI_SaldoPuntos = "Saldo de Puntos"
+JLI_pagina 		= "Blz.";
+
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 

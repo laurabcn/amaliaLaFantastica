@@ -5,6 +5,6 @@
   angular
     .module('amaliaLaFantastica')
     .constant('malarkey', malarkey)
-    .constant('moment', moment);
-
+    .constant('moment', moment)
+    .value('lang', 'cas');
 })();

@@ -10,7 +10,8 @@ dataPpuServices.$inject = ['$http', 'ngXml2json'];
 
 function dataPpuServices($http, ngXml2json){
  return {
-   getDataPpu: getDataPpu
+   getDataPpu: getDataPpu,
+   getDataPpuSaldo: getDataPpuSaldo
  };
 
   function getDataPpu(){
@@ -24,6 +25,21 @@ function dataPpuServices($http, ngXml2json){
     }
 
     function getDataPpuFailed(){
+      console.log("ERROR getDataPpuFailed");
+    }
+  }
+
+  function getDataPpuSaldo(){
+    return $http.get('emulador/PPU_CONSULTACUENTAS_SI.xml')
+      .then(getDataPpuSaldoComplete)
+      .catch(getDataPpuSaldoFailed);
+
+    function getDataPpuSaldoComplete(response){
+      var translate = ngXml2json.parser(response.data);
+      return translate;
+    }
+
+    function getDataPpuSaldoFailed(){
       console.log("ERROR getDataPpuFailed");
     }
   }

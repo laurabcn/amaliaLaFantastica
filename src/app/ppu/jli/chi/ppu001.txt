@@ -1,0 +1,219 @@
+JLI_nOk="\u64cd\u4f5c#\u6682\u65f6\u65e0\u6cd5#\u4f7f\u7528";
+JLI_operativaNoDisp="\u64cd\u4f5c\u6682\u65f6\u65e0\u6cd5\u4f7f\u7528";
+JLI_opcancel="& *****\u64cd\u4f5c\u5df2\u53d6\u6d88*****";
+JLI_opcorrect="#\u64cd\u4f5c\u6b63\u786e\u5b8c\u6210";
+JLI_noPrint="&\u6253\u5370\u673a\u65e0\u6cd5\u4f7f\u7528";
+JLI_noimpre="\u5f88\u62b1\u6b49\uff0c\u6211\u4eec\u6682\u65f6\u65e0\u6cd5\u5411\u60a8&\u9012\u4ea4\u6536\u636e";
+JLI_puntostitul="\u79ef\u5206\u6d3b\u52a8";
+//JLI_puntostitul="Programas de puntos";
+JLI_puntos="\u79ef\u5206";
+JLI_puntsEstrella="Puntos Estrella\u79ef\u5206";
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_ExtractoTitle = "Extracto de Puntos Estrella";
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 
+
+JLI_Origen = "Origen"; 
+/*ppu002*/
+
+//JLI_con1="\u4fc3\u9500\u6d3b\u52a8";
+JLI_con1="PROMOCIÓN";
+JLI_con2="\u53ef\u7528\u79ef\u5206\u4f59\u989d";
+JLI_con3="\u67e5\u8be2\u793c\u7269\u6216\u8005\u5151\u6362\u79ef\u5206\uff0c\u8bf7\u6309";
+
+/*Mensajes de nok  */
+
+JLI_nokT02="\u5151\u6362\u8be5\u793c\u7269#\u60a8\u5e94\u5f53\u524d\u5f80#\u9500\u552e\u5165\u573a\u5238\u64cd\u4f5c";
+JLI_nokT03="\u8be5\u793c\u54c1\u4f7f\u7528ServiCaixa#\u65e0\u6cd5\u8fdb\u884c\u5151\u6362\u3002#\u8bf7\u5411\u60a8\u8d26\u6237\u6240\u5728\u7684\u5206\u884c\u8fdb\u884c\u67e5\u8be2\u3002";
+JLI_nokT04="\u76ee\u524d#\u8be5\u793c\u54c1\u65e0\u6cd5\u8fdb\u884c\u5151\u6362\u3002#\u4e3a\u7ed9\u60a8\u5e26\u6765\u7684\u4e0d\u4fbf\u8868\u793a\u62b1\u6b49\u3002";
+JLI_nokT99="\u8be5\u793c\u7269\u5df2\u65e0\u5e93\u5b58\u3002#\u4e3a\u7ed9\u60a8\u5e26\u6765\u7684\u4e0d\u4fbf\u8868\u793a\u62b1\u6b49\u3002";
+JLI_noknopunts="\u60a8\u6ca1\u6709\u8db3\u591f\u7684\u79ef\u5206#\u5151\u6362\u9009\u62e9\u7684\u793c\u7269\u3002#\u8bf7\u6839\u636e\u60a8\u53ef\u4f7f\u7528\u7684\u79ef\u5206\u60c5\u51b5#\u91cd\u65b0\u9009\u62e9\u793c\u54c1\u3002";
+
+/*ppu003*/
+
+JLI_sel1="\u8fdb\u884c\u79ef\u5206\u5151\u6362\uff0c\u8bf7\u70b9\u51fb\u60a8\u5e0c\u671b\u5151\u6362\u7684\u793c\u7269\u56fe\u7247\u3002";
+JLI_sel1_3830="\u8fdb\u884c\u79ef\u5206\u5151\u6362\uff0c\u8bf7\u6309\u60a8\u5e0c\u671b\u5151\u6362\u7684\u793c\u7269\u6309\u94ae\u3002";
+JLI_saltarPag="\u8df3\u81f3\n\u524d\u9875";
+
+/*ppu004*/
+JLI_conf1="\u60a8\u5df2\u7ecf\u7533\u8bf7";
+JLI_conf2="\u5982\u60a8\u8fdb\u884c\u6b64\u9879\u64cd\u4f5c\uff0c\u60a8\u7684\u79ef\u5206\u4f59\u989d\u5c06\u4f1a\u5982\u4e0b\u663e\u793a";
+JLI_conf3="\u603b\u79ef\u5206";
+JLI_conf4="\u603b\u66f4\u6362\u79ef\u5206";
+JLI_conf5="\u603b\u53ef\u7528\u79ef\u5206";
+JLI_conf6="\u60a8\u5e94\u5f53\u524d\u5f80\u5206\u884c\u9886\u53d6\u8fd9\u4efd\u793c\u54c1\uff1a";
+JLI_conf7="\u60a8\u540c\u610f\u5417\uff1f";
+JLI_dona="\u611f\u8c22\u60a8\u7684\u6350\u8d60";
+JLI_conftip06="\u60a8\u5e94\u5f53\u5728\u4e0b\u5217\u53c2\u8003\u5730\u70b9\u9886\u53d6\u793c\u54c1";
+JLI_selecget="\u9009\u62e9\u60a8\u5e0c\u671b\u5728\u54ea\u91cc\u9886\u53d6\u793c\u7269";
+JLI_ensuof="\u5728\u94f6\u884c\u5206\u884c";
+JLI_ensucasa="\u5728\u5bb6\u5ead\u4f4f\u5740";
+JLI_telef="\u7535\u8bdd";
+JLI_timeget="\u9012\u4ea4\u65f6\u95f4";
+JLI_datget="\u9012\u4ea4\u8d44\u6599";
+JLI_direcc="\u5730\u5740";
+JLI_pobyprov="\u57ce\u5e02\u53ca\u7701\u4efd";
+JLI_codpost="\u90ae\u653f\u7f16\u7801";
+JLI_recdomi="\u60a8\u5c06\u4e8e\u5bb6\u5ead\u4f4f\u6240\u6536\u5230\u793c\u54c1\uff1a";
+JLI_tlf="\u7535\u8bdd";
+JLI_recofic="\u60a8\u5e94\u5f53\u524d\u5f80\u5206\u884c\u9886\u53d6\u8fd9\u4efd\u793c\u7269\uff1a";
+JLI_noktime="\u9886\u53d6\u793c\u54c1\u65f6\u95f4\u5e94\u5f53\u5728#9:00\u81f318:00\u4e4b\u95f4";
+JLI_advicetime="\u9886\u53d6\u793c\u54c1\u65f6\u95f4\u5e94\u5f53\u57289:00\u81f318:00\u4e4b\u95f4";
+
+/* impresion de recibos*/
+
+//JLI_titular="\u5f00\u6237\u59d3\u540d\uff1a";
+JLI_titular="TITULAR";
+JLI_nomYap="\u59d3\u540d\uff1a";
+JLI_NIF="NIF\uff1a";
+//JLI_nifimpre="NIF\uff1a";
+JLI_nifimpre="NIF";
+//JLI_regalo="\u793c\u7269";
+JLI_regalo="REGALO";
+//JLI_imp1="\u6839\u636e\u6807\u6ce8\u7684\u5546\u4e1a\u516c\u53f8\u5408\u540c\u603b\u5219\uff0c\u672c\u4efd\u6587\u4ef6\u53ef\u4ee5";
+//JLI_imp2="\u8fdb\u884c\u6709\u6548\u5151\u6362";
+//JLI_imp3="\u4e0d\u80fd\u4f5c\u4e3a\u53ef\u8f6c\u8ba9\u7968\u636e";
+JLI_imp1="Este documento es válido para canjear de acuerdo con las condiciones generales";
+JLI_imp2="de la campaña comercial indicada";
+JLI_imp3="No es válido como documento negociable";
+
+
+/* texto de recibos segun tipo de regalo*/
+
+//JLI_tipo00a="\u6307\u5b9a\u793c\u54c1\u5151\u6362\u5238\uff0c\u9886\u53d6\u5730\u70b9\u4e3a";
+//JLI_tipo00b="\u5206\u884c";
+//JLI_tipo05a="\u611f\u8c22\u60a8\u7684\u6350\u8d60";
+//JLI_tipo06a="\u6307\u5b9a\u793c\u54c1\u5151\u6362\u5238\uff0c\u9886\u53d6\u5730\u70b9";
+//JLI_tipo06b="\u4e3a\u6240\u6709\u53c2\u7167\u5730\u70b9";
+//JLI_tipodoca="\u6307\u5b9a\u793c\u54c1\u5151\u6362\u5238\uff0c\u9886\u53d6\u5730\u70b9\u4e3a";
+//JLI_tipodocb="\u6307\u5b9a\u7684\u4f4f\u5bb6\u5730\u5740\uff1a";
+//JLI_rec1="\u4f4f\u5740\uff1a";
+//JLI_rec2="\u90ae\u653f\u7f16\u7801\uff1a";
+//JLI_rec3="\u57ce\u5e02/\u7701\u4efd\uff1a";
+//JLI_rec4="\u7535\u8bdd\uff1a";
+//JLI_rec5="\u9886\u53d6\u65f6\u95f4\uff1a";
+
+JLI_tipo00a="VALE PARA EL OBSEQUIO ESPECIFICADO A RECOGER EN";
+JLI_tipo00b="LA OFICINA ";
+JLI_tipo05a="GRACIAS POR SU DONATIVO"
+JLI_tipo06a="VALE POR LOS OBSEQUIOS ESPECIFICADOS, PARA RECOGER ";
+JLI_tipo06b="EN LOS ESTABLECIMIENTOS DE REFERENCIA "; 
+JLI_tipodoca="VALE POR EL OBSEQUIO ESPECIFICADO, A ENTREGAR ";
+JLI_tipodocb="EN EL DOMICILIO QUE SE ESPECIFICA";
+JLI_rec1="DOMICILIO: ";
+JLI_rec2="COD.POSTAL: ";
+JLI_rec3="POBL./PROV.: ";
+JLI_rec4="TELÉFONO.: ";
+JLI_rec5="Hora de recogida:";
+
+
+
+/*Mensajes  de nok de relleno del formulario*/
+
+JLI_form1="#\u5fc5\u987b\u51fa\u793a";
+JLI_la=" ";
+JLI_el=" ";
+
+
+JLI_con3F3="\u67e5\u8be2\u793c\u7269\u6216\u8005\u5151\u6362\u79ef\u5206\uff0c\u8bf7\u6309\u7ee7\u7eed";
+JLI_ensuofF3="\u5206\u884c";
+JLI_ensucasaF3="\u4f4f\u5740";
+
+/*ppu002b*/
+JLI_RAN0="\u6240\u6709";
+JLI_RAN1="\u4ece300\u5206\u8d77";
+JLI_RAN2="\u4ece700\u5206\u8d77";
+JLI_RAN3="\u4ece1000\u5206\u8d77";
+JLI_RAN4="\u4ece3000\u5206\u8d77";
+JLI_RAN5="\u4ece5000\u5206\u8d77";
+
+
+// Literals per a les pàgines de nova imatge.
+JLI_amblliu="\u9012\u4ea4\u5730\u5740\uff1a";
+JLI_oficina="\u5206\u884c";
+JLI_noRegals="\u5728\u9009\u62e9\u7684\u79ef\u5206\u6bb5\u5185\u6ca1\u6709\u4efb\u4f55\u793c\u54c1";
+JLI_ofisig="\u60a8\u7684\u5206\u884c\u5730\u5740\u5982\u4e0b\uff1a";
+JLI_opcional="\uff08\u53ef\u9009\u9879\uff09";
+JLI_ofidistinta="\u5982\u679c\u60a8\u4e0d\u5728\u60a8\u7684\u8d26\u6237\u6240\u5728\u5206\u884c\uff0c\u800c\u4e14\u5176\u5b83\u5206\u884c\u9886\u53d6\u793c\u7269\uff0c\u8bf7\u6307\u51fa\u76ee\u7684\u5206\u884c\u7684\u53f7\u7801\uff1a";
+
+JLI_boto3_txt="la Caixa\u7684\u4e00\u5bb6\u5206\u884c";
+JLI_sol_txt  = "Usted ha solicitado:";
+JLI_info_txt = "Indique, por favor, dónde desea recoger su regalo:";
+JLI_saldoact_txt = "Saldo actual de Puntos Estrella:";
+JLI_bescanvi_txt = "Puntos a canjear:";
+JLI_resultat_txt = "Saldo final de Puntos Estrella:";
+JLI_boto1_txt = "En su domicilio";
+JLI_boto2_txt = "En su oficina";
+JLI_lit_punts = "puntos";
+JLI_ofiNok="\u5206\u884c\u53f7\u7801\u4e0d\u6b63\u786e";
+
+/*************************************
+   LITERLS PER NEW LOOK
+**************************************/
+JLI_NL_titulo="Puntos Estrella\u79ef\u5206";
+JLI_NL_ppu001Tit="\u8bf7\u6307\u51fa\u60a8\u5e0c\u671b\u5982\u4f55\u5151\u6362Puntos Estrella\u79ef\u5206";
+JLI_NL_suSaldoIni="#\u60a8\u7684\u4f59\u989d\u662f";
+JLI_NL_suSaldoFin="Puntos Estrella\u79ef\u5206";
+JLI_NL_solicitarRegalo="\u7533\u8bf7\u793c\u54c1#\u76ee\u5f55";
+JLI_NL_compraDeEntradas="\u8d2d\u4e70\u8282\u76ee#\u5165\u573a\u5238";
+JLI_NL_ppu002Tit="\u8bf7\u6307\u51fa\u60a8\u5e0c\u671b\u4ece\u591a\u5c11\u79ef\u5206\u5f00\u59cb\u67e5\u8be2\u793c\u7269";
+JLI_NL_500puntos="\u4ece500\u5206\u8d77";
+JLI_NL_1000puntos="\u4ece1000\u5206\u8d77";
+JLI_NL_2000puntos="\u4ece2000\u5206\u8d77";
+JLI_NL_4500puntos="\u4ece4500\u5206\u8d77";
+JLI_NL_todos="\u6240\u6709";
+JLI_NL_ppu003Tit="\u8bf7\u6307\u51fa\u60a8\u9700\u8981\u83b7\u5f97\u7684\u793c\u7269";
+JLI_NL_mas="\u66f4\u591a";
+JLI_NL_regalosPs="\u793c\u7269";
+JLI_NL_seleccionar="\u9009\u62e9";
+JLI_NL_puntos="\u79ef\u5206";
+JLI_NL_ppu004Tit="\u8bf7\u6307\u51fa\u60a8\u5e0c\u671b\u5728\u54ea\u91cc\u6536\u5230\u6240\u9009\u7684\u793c\u7269";
+JLI_PPUNL_saldoPunts="\u76ee\u524dPuntos Estrella\u79ef\u5206\u4f59\u989d";
+JLI_PPUNL_puntsCanvi="\u8981\u5151\u6362\u7684\u79ef\u5206\uff1a";
+JLI_PPUNL_saldoFinal="\u6700\u540ePuntos Estrella\u79ef\u5206\u4f59\u989d";
+JLI_NL_enDomicilio="\u5728\u5bb6\u5ead\u4f4f\u5740#";
+JLI_NL_enOficina="la Caixa\u7684\u4e00\u5bb6\u5206\u884c#";
+JLI_NL_ppu005aTit="\u786e\u8ba4\u94f6\u884c\u5206\u884c\u8d44\u6599\uff0c\u7136\u540e\u8bf7\u6309\u7ee7\u7eed";
+JLI_PPUNL_poblacioProvincia="\u57ce\u5e02\u53ca\u7701\u4efd";
+JLI_PPUNL_direccio="\u5730\u5740\uff1a";
+JLI_PPUNL_codiPostal="\u90ae\u653f\u7f16\u7801";
+JLI_NL_ppu005bTit="\u786e\u8ba4\u94f6\u884c\u5361\u8d44\u6599\uff0c\u7136\u540e\u8bf7\u6309\u7ee7\u7eed";
+JLI_PPUNL_oficina="\u5206\u884c\uff1a";
+JLI_PPUNL_poblacio="\u57ce\u5e02\uff1a";
+JLI_PPUNL_canviOficina="\u5982\u60a8\u539f\u56e0\uff0c\u60a8\u53ef\u4ee5\u6539\u53d8\u5206\u884c";
+JLI_PPUNL_bot_canviarOficina="\u6539\u53d8#\u5206\u884c";
+JLI_NL_ppu006Tit="\u8bf7\u952e\u5165\u60a8\u5e0c\u671b\u6536\u53d6\u793c\u7269\u7684\u5730\u5740\u8d44\u6599";
+JLI_NL_ppu007aTit="\u8bf7\u952e\u5165\u8054\u7cfb\u7535\u8bdd";
+JLI_PPUNL_telefon="\u8054\u7cfb\u7535\u8bdd\uff1a";
+JLI_PPUNL_hora="\u63a5\u6536\u65f6\u95f4\uff1a";
+JLI_PPUNL_franjaHoraria="\uff089\u70b9\u81f318\u70b9\uff09";
+JLI_NL_ppu007bTit="\u8bf7\u952e\u5165\u60a8\u5e0c\u671b\u6536\u53d6\u793c\u7269\u7684\u5206\u884c\u5730\u5740";
+JLI_NL_import="\u91d1\u989d\uff1a";
+JLI_NL_numOficina="\u5206\u884c\u53f7\u7801\uff1a";
+JLI_NL_ppu008Tit="\u786e\u8ba4\u7533\u8bf7\u8d44\u6599\uff0c\u7136\u540e\u8bf7\u6309\u786e\u8ba4\u7533\u8bf7";
+JLI_NL_graciasDonativo="\u611f\u8c22\u60a8\u7684\u6350\u8d60";
+JLI_PPUNL_direccioEntrega="\u9012\u4ea4\u5730\u5740\uff1a";
+JLI_PPUNL_telefonContacte="\u8054\u7cfb\u7535\u8bdd\uff1a";
+JLI_PPUNL_horaEntrega="\u9012\u4ea4\u65f6\u95f4\uff1a";
+JLI_PPUNL_oficinaEntrega="\u9012\u4ea4\u5206\u884c\uff1a";
+JLI_NL_horas="\u65f6\u95f4\uff1a";
+JLI_NL_confirmarSolicitud="\u786e\u8ba4\u7533\u8bf7";
+JLI_NL_conComprobante="\uff08\u6709\u51ed\u5355\uff09";
+JLI_NL_sinComprobante="\uff08\u65e0\u51ed\u5355\uff09";
+JLI_NL_opRealizada="\u793c\u7269\u7533\u8bf7\u5df2\u5b8c\u6210";
+JLI_NL_retComprobante="\u63d0\u53d6\u51ed\u5355";
+JLI_NL_comRetirado="\u51ed\u5355\u5df2\u63d0\u53d6";
+JLI_NL_regalmes="\u672c\u6708\u4e3b\u6253\u793c\u7269";
+JLI_PPU_ParaClientesSin="\u4e3a\u6ca1\u6709# ~\u79ef\u5206\u7684\u5ba2\u6237";
+JLI_PPU_ParaClientesCon="\u4e3a\u4ec5\u6709# ~\u79ef\u5206\u7684\u5ba2\u6237";
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 

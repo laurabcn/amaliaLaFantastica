@@ -1,0 +1,244 @@
+
+JLI_nOk		=	"Operació#temporalment no#disponible";
+JLI_operativaNoDisp 	=	"OPERATIVA TEMPORALMENT NO DISPONIBLE";
+JLI_opcancel	=	"# #* * * OPERACIÓ CANCEL·LADA * * *";
+JLI_opcorrect	=	"#Operació realitzada correctament";
+JLI_noPrint	=	"#Impressora no disponible";
+JLI_noimpre	=	"Ho lamentem, però en este moment no podem#entregar-li el comprovant";
+JLI_puntostitul	=	"Programes de punts";
+JLI_puntos	=	"PUNTS";
+JLI_puntsEstrella = "Punts Estrella";
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_ExtractoTitle = "Extracto de Puntos Estrella";
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 
+
+JLI_Origen = "Origen"; 
+
+JLI_con1	=	"PROMOCIÓ";
+JLI_con2	=	"Saldo de punts disponibles";
+JLI_con3	=	"Per vore els regals o bescanviar punts, marque";
+
+
+
+JLI_nokT02	=	"Per bescanviar este regal#ha d\'anar a l\'operativa de#Venda d\'Entrades";
+JLI_nokT03	=	"Este obsequi no pot ser bescanviat#des del Servicaixa.#Per favor, consulte-ho a la seua oficina";
+JLI_nokT04	=	"En este moment#este obsequi no pot ser bescanviat.#Disculpe les molèsties";
+JLI_nokT99	=	"Este regal està esgotat.#Disculpe les molèsties";
+JLI_noknopunts	=	"Vosté no disposa dels suficients punts#per bescanviar l\'obsequi escollit.#Per favor, trie un obsequi#que es corresponga amb els seus punts";
+
+
+
+JLI_sel1	=	"Per bescanviar un regal, toque sobre la imatge del regal que vol";
+JLI_sel1_3830	=	"Per bescanviar un regal, prema el botó del regal que vol";
+JLI_saltarPag	=	"Saltar pàgina";
+
+
+JLI_conf1	=	"Vosté ha demanat";
+JLI_conf2	=	"Si vosté realitza esta operació, el seu saldo en punts serà el següent :";
+JLI_conf3	=	"Total punts acumulats";
+JLI_conf4	=	"Total punts bescanviats";
+JLI_conf5	=	"Total punts disponibles";
+JLI_conf6	=	"Ha de recollir este obsequi a l\'oficina:";
+JLI_conf7	=	"Hi està d\'acord?";
+JLI_dona	=	"Gràcies pel seu donatiu";
+JLI_conftip06	=	"Ha de recollir este obsequi als establiments de refèrencia";
+JLI_selecget	=	"Seleccione on preferix recollir el seu regal";
+JLI_ensuof	=	"A l\'oficina";
+JLI_ensucasa	=	"Al seu domicili";
+JLI_telef	=	"Telèfon";
+JLI_timeget	=	"Hora d'entrega";
+JLI_datget	=	"Dades de l\'entrega";
+JLI_direcc	=	"Adreça";
+JLI_pobyprov	=	"Població i província";
+JLI_codpost	=	"Codi postal";
+JLI_recdomi	=	"Ha de recollir este obsequi al domicili:";
+JLI_tlf	=	"Tel.";
+JLI_recofic	=	"Ha de recollir este obsequi a l\'oficina:";
+JLI_noktime	=	"l\'horari de recollida ha d\'estar comprès#entre les 9:00 i les 18:00";
+JLI_advicetime	=	"l\'hora de recollida ha d\'estar compresa entre les 9:00 i les 18:00";
+
+
+JLI_nomYap	=	"Nom i cognoms ";
+JLI_NIF	=	"NIF";
+JLI_titular	=	"TITULAR";
+
+
+
+JLI_tipo00a	=	"VAL PER L\'OBSEQUI ESPECIFICAT, PER RECOLLIR A ";
+JLI_tipo00b	=	"L\'OFICINA ";
+JLI_tipo05a	=	"GRÀCIES PEL SEU DONATIU";
+JLI_tipo06a	=	"VAL PELS OBSEQUIS ESPECIFICATS, PER RECOLLIR";
+JLI_tipo06b	=	"ALS ESTABLIMENTS DE REFERÈNCIA"; 
+JLI_tipodoca	=	"VAL PER L\'OBSEQUI ESPECIFICAT, PER RECOLLIR ";
+JLI_tipodocb	=	"AL DOMICILI QUE ES DETALLA";
+JLI_rec1	=	"ADREÇA: ";
+JLI_rec2	=	"CODI POSTAL: ";
+JLI_rec3	=	"POBL./PROV.: ";
+JLI_rec4	=	"TELÈFON: ";
+JLI_rec5	=	"Hora de recollida: ";
+
+
+
+
+
+
+
+JLI_titular	=	"TITULAR";
+JLI_nomYap	=	"Nom i cognoms ";
+JLI_NIF	=	"NIF";
+JLI_nifimpre	=	"N.I.F.";
+JLI_regalo	=	"REGAL";
+JLI_imp1	=	"Este document és vàlid per bescanviar d\'acord amb les condicions generals";
+JLI_imp2	=	"de la campanya comercial indicada";
+JLI_imp3	=	"No és vàlid com a document negociable";
+
+
+JLI_RAN0	=	"Tots";
+JLI_RAN1	=	"A partir de 300 punts";
+JLI_RAN2	=	"A partir de 700 punts";
+JLI_RAN3	=	"A partir de 1.000 punts";
+JLI_RAN4	=	"A partir de 3.000 punts";
+JLI_RAN5	=	"A partir de 5.000 punts";
+
+
+
+
+
+
+
+JLI_form1	=	" # ÉS OBLIGATORI DONAR ";
+JLI_la	=	"LA ";
+JLI_el	=	"EL ";
+
+
+JLI_con3F3	=	"Per vore els regals o bescanviar punts, prema CONTINUAR";
+JLI_ensuofF3	=	"oficina";
+JLI_ensucasaF3	=	"domicili";
+
+
+JLI_amblliu 	=	"Amb entrega a:";
+JLI_oficina	=	"Oficina ";
+
+
+JLI_noRegals 	=	"No hi ha obsequis en el rang de punts sol·licitat";
+
+//Literals pàgina ppu_canvioficina.htm
+JLI_ofisig	=	"La seua oficina és la següent:";
+JLI_opcional	=	"(Opcional)";
+JLI_ofidistinta	=	"Si preferix recollir-lo en una oficina diferent a la seua, indique\'ns el número de l'oficina destinatària:";
+
+JLI_boto3_txt	=	"En una oficina de 'la Caixa'";
+JLI_sol_txt 	=	"Vosté ha sol·licitat:";
+JLI_info_txt 	=	"Indique, per favor, on preferix recollir el seu regal:";
+JLI_saldoact_txt 	=	"Saldo actual de Punts Estrella:";
+JLI_bescanvi_txt 	=	"Punts a bescanviar:";
+JLI_resultat_txt 	=	"Saldo final de Punts Estrella:";
+JLI_boto1_txt 	=	"Al seu domicili";
+JLI_boto2_txt 	=	"A la seua oficina";
+JLI_lit_punts 	=	"punts";
+JLI_ofiNok	=	"El número d'oficina no és vàlid";
+
+
+
+
+JLI_NL_titulo 	=	"Punts Estrella";
+
+JLI_NL_ppu001Tit 	=	"Indique l'operació que vol realitzar";
+JLI_NL_suSaldoIni 	=	"#Té un saldo de ";
+JLI_NL_suSaldoFin 	=	" Punts Estrella#";
+JLI_NL_solicitarRegalo 	=	"Demanar un regal#del catàleg";
+JLI_NL_compraDeEntradas 	=	"Compra d'entrades#d'espectacles";
+
+JLI_NL_ppu002Tit 	=	"Indique els punts a partir dels quals vol consultar els regals";
+JLI_NL_500puntos 	=	"A partir de 500 punts";
+JLI_NL_1000puntos 	=	"A partir de 1.000 punts";
+JLI_NL_2000puntos 	=	"A partir de 2.000 punts";
+JLI_NL_4500puntos 	=	"A partir de 4.500 punts";
+JLI_NL_todos 	=	"Tots";
+
+JLI_NL_ppu003Tit 	=	"Indique el regal que vol obtindre";
+JLI_NL_mas 	=	"Més";
+JLI_NL_regalosPs 	=	"regals...";
+JLI_NL_seleccionar 	=	"Seleccionar";
+
+JLI_NL_puntos 	=	"punts";
+
+JLI_NL_ppu004Tit 	=	"Indique on vol rebre el regal seleccionat";
+JLI_PPUNL_saldoPunts 	=	"Saldo actual de Punts Estrella:";
+JLI_PPUNL_puntsCanvi 	=	"Punts que es bescanvien:";
+JLI_PPUNL_saldoFinal 	=	"Saldo final de Punts Estrella:";
+JLI_NL_enDomicilio 	=	"Al domicili#";
+JLI_NL_enOficina 	=	"En una oficina de \"la Caixa\"#";
+
+JLI_NL_ppu005aTit 	=	"Comprove les dades del domicili i, a continuació,\nmarque \"Continuar\"";
+JLI_PPUNL_poblacioProvincia 	=	"Població i província:";
+JLI_PPUNL_direccio 	=	"Adreça:";
+JLI_PPUNL_codiPostal 	=	"Codi postal:";
+
+JLI_NL_ppu005bTit 	=	"Comprove les dades de l'oficina i, a continuació, marque \"Continuar\"";
+JLI_PPUNL_oficina 	=	"Oficina:";
+JLI_PPUNL_poblacio 	=	"Població:";
+JLI_PPUNL_canviOficina 	=	"Si vol pot canviar l'oficina de recepció del regal";
+JLI_PPUNL_bot_canviarOficina 	=	"Canviar#l'oficina";
+
+JLI_NL_ppu006Tit 	=	"Teclege les dades de l'adreça on vol rebre el regal";
+
+JLI_NL_ppu007aTit 	=	"Teclege un número de telèfon de contacte";
+JLI_PPUNL_telefon 	=	"Telèfon de contacte:";
+JLI_PPUNL_hora 	=	"Hora de recepció:";
+JLI_PPUNL_franjaHoraria 	=	"(de 09:00 a 18:00)";
+
+JLI_NL_ppu007bTit 	=	"Teclege el número de l'oficina on vol rebre el regal";
+JLI_NL_import 	=	"Import:";
+JLI_NL_numOficina 	=	"Número de l'oficina:";
+
+JLI_NL_ppu008Tit 	=	"Comprove les dades de la sol·licitud i, a continuació,\nmarque \"Confirmar la sol·licitud\"";
+JLI_NL_graciasDonativo 	=	"Gràcies pel donatiu";
+JLI_PPUNL_direccioEntrega 	=	"Adreça d'entrega:";
+JLI_PPUNL_telefonContacte 	=	"Telèfon de contacte:";
+JLI_PPUNL_horaEntrega 	=	"Horari d'entrega:";
+JLI_PPUNL_oficinaEntrega 	=	"Oficina de recepció:";
+JLI_NL_horas 	=	"hores";
+JLI_NL_confirmarSolicitud 	=	"Confirmar la sol·licitud";
+JLI_NL_conComprobante 	=	"(amb comprovant)";
+JLI_NL_sinComprobante 	=	"(sense comprovant)";
+JLI_NL_opRealizada 	=	"Sol·licitud de regal efectuada";
+JLI_NL_retComprobante 	=	"Retire el seu comprovant";
+JLI_NL_comRetirado 	=	"Comprovant retirat";
+
+JLI_NL_regalmes 	=	"Regal del mes";
+JLI_PPU_ParaClientesSin 	=	"Per a clients sense # ~ punts";
+JLI_PPU_ParaClientesCon 	=	"Per a clients amb # només ~ punts";
+
+
+
+JLI_PPU_Titulares 	=	"Operació no disponible per a llibretes amb més d'un titular";
+
+
+JLI_NL_Otras_Extracto_Puntos		=	"Extracte del#compte de punts";
+JLI_NL_Otras_Extracto_Puntos_Titulo	=	"Extracte del compte de punts";
+JLI_NL_Otras_Cuentas_Puntos	 		=	"Consulta d'altres#comptes de punts";
+JLI_NL_Otras_Cuentas_Puntos_Titulo	=	"Consulta d'altres comptes de punts"
+JLI_NL_indique_cuenta_puntos 		=	"Indique el compte de punts amb el qual vol operar"; 
+
+
+JLI_Fecha	 	=	"Data";
+JLI_Concepto 	=	"Concepte";
+JLI_Puntos2  	=	"Punts";
+JLI_NumCuenta	=	"Núm. de compte ";
+JLI_SaldoPuntos 	=	"Saldo de punts";
+JLI_pagina 		 =	"Pàg.";
+
+
+
+JLI_NL_SaldoPuntosEstrella			= "Saldo de Puntos Estrella";		
+JLI_NL_PuntosACaducar				= "Puntos a caducar el"; 
+JLI_NL_Descrip0 = "Si desea canjear sus Puntos Estrella por regalos puede hacerlo en:"; 
+JLI_NL_Descrip1 = "<b>Internet:</b>accediendo a www.lacaixa.es"; 
+JLI_NL_Descrip2 = "<b>Móvil:</b>descargándose la aplicación de Puntos Estrella."; 
+JLI_NL_Descrip3 = "<b>Oficina:</b>dirigiéndose a cualquier oficina de CaixaBank."; 
